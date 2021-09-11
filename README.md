@@ -1,11 +1,4 @@
-![](https://img.shields.io/badge/Huffmann%20Coding-%20-yellow) ![](https://img.shields.io/badge/File%20Compression-%20-green) ![](https://img.shields.io/badge/javascript-%20-orange) ![](https://img.shields.io/badge/HTML/CSS/Bootstrap-%20-red) ![](https://img.shields.io/badge/license-MIT-blue)
-<br />
-<p align="center">
-  <h1 align="center">Huffmann File Compressor</h1>
-  <p align="center">
-  <i><b>A File Compressor site which uses Huffmann Coding technique to perform lossless compression/decompression of text (.txt) files made using Javascript, HTML/CSS and Bootstrap.</b></i>
-  </p>
-</p>
+ 
 
 ## About
 * Performs lossless compression and decompression of .txt files using Huffman Coding technique .
